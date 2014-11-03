@@ -1,0 +1,10 @@
+The files ASYNCH.H and ASYNCH.CPP are the actual source code to the
+asynchronous object class.  The file SPDTERM.CPP is merely a sample
+test program to test the interrupt and some of the functions of the
+class.  To compile, simply create a .PRJ file by loading up TC++,
+and create a project file with the items ASYNCH.CPP and SPDTERM.CPP.
+From command line, just make sure you link in the ASYNCH.OBJ with
+the SPDTERM.OBJ.
+Have fun.
+
+Jui-Lin Hung
